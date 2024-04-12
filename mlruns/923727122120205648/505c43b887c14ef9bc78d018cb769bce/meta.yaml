@@ -1,0 +1,15 @@
+artifact_uri: /home/mekalazethindra/mle-training/ml-flow/pydataberlin-2019/mlruns/923727122120205648/505c43b887c14ef9bc78d018cb769bce/artifacts
+end_time: 1712911049310
+entry_point_name: ''
+experiment_id: '923727122120205648'
+lifecycle_stage: active
+run_id: 505c43b887c14ef9bc78d018cb769bce
+run_name: angry-mouse-364
+run_uuid: 505c43b887c14ef9bc78d018cb769bce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712911047460
+status: 3
+tags: []
+user_id: mekalazethindra

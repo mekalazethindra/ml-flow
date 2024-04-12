@@ -1,0 +1,15 @@
+artifact_uri: /home/mekalazethindra/mle-training/ml-flow/pydataberlin-2019/mlruns/923727122120205648/9f0c42d4430d4e2a9498f57cfdefea72/artifacts
+end_time: 1712911047410
+entry_point_name: ''
+experiment_id: '923727122120205648'
+lifecycle_stage: active
+run_id: 9f0c42d4430d4e2a9498f57cfdefea72
+run_name: righteous-wasp-179
+run_uuid: 9f0c42d4430d4e2a9498f57cfdefea72
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712911045525
+status: 3
+tags: []
+user_id: mekalazethindra

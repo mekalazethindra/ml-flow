@@ -1,0 +1,15 @@
+artifact_uri: /home/mekalazethindra/mle-training/ml-flow/pydataberlin-2019/mlruns/0/e9c97d6b29544c6a9717db70549efbc1/artifacts
+end_time: 1712911348362
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e9c97d6b29544c6a9717db70549efbc1
+run_name: ''
+run_uuid: e9c97d6b29544c6a9717db70549efbc1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712911280136
+status: 3
+tags: []
+user_id: mekalazethindra

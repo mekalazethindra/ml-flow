@@ -1,0 +1,15 @@
+artifact_uri: /home/mekalazethindra/mle-training/ml-flow/pydataberlin-2019/mlruns/923727122120205648/aa99782e73cf43659b2e0d8e108394ca/artifacts
+end_time: 1712910989160
+entry_point_name: ''
+experiment_id: '923727122120205648'
+lifecycle_stage: active
+run_id: aa99782e73cf43659b2e0d8e108394ca
+run_name: fortunate-gnu-752
+run_uuid: aa99782e73cf43659b2e0d8e108394ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712910985386
+status: 3
+tags: []
+user_id: mekalazethindra
